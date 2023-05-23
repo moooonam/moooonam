@@ -4,6 +4,10 @@
 
 <div align='center'>
 
+## 🧐 About Me
+#### Email: anska77@naver.com
+#### Portfolio: https://hickory-bow-58c.notion.site/5617014d4a3b481780c9d5aa4d5a1834
+
 ## 🔥 SKILLS & 🛠 TOOLS
 
 ### Web
@@ -19,5 +23,6 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moooonam&layout=compact"> 	<img src="https://github-readme-stats.vercel.app/api?username=moooonam&show_icons=true">
+## 📜 About My Git
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moooonam&layout=compact&theme=tokyonight"> 	<img src="https://github-readme-stats.vercel.app/api?username=moooonam&show_icons=true&theme=tokyonight">
 </div>
