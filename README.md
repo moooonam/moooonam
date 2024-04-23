@@ -7,7 +7,7 @@
 ## 🧐 About Me
 #### Email: anska77@naver.com
 #### Portfolio: https://hickory-bow-58c.notion.site/5617014d4a3b481780c9d5aa4d5a1834
-
+#### blog:https://moooostory.tistory.com/
 ## 🔥 SKILLS & 🛠 TOOLS
 
 ### Web
